@@ -1,11 +1,13 @@
 # coding_problems
 
 06.01.21
-412.Fizz Buzz - Easy
+412. Fizz Buzz - Easy
 
 11.01.21
-58.Length of Last word - Easy
+58. Length of Last word - Easy
 
+14.01.21
+771. Jewels and Stones - Easy
 
 Group A — список задач, которые не решил самостоятельно:
 
