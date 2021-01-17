@@ -15,6 +15,7 @@
 17.01.21
 414. Third Maximum Number - Easy
 344. Reverse String - Easy
+125. Valid Palindrome - Easy
 
 
 Group A — список задач, которые не решил самостоятельно:
