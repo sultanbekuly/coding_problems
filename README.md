@@ -11,10 +11,10 @@
 
 16.01.21
 860. Lemonade Change - Easy
-836. Rectangle Overlap - Easy
 
 17.01.21
 414. Third Maximum Number - Easy
+344. Reverse String - Easy
 
 
 Group A — список задач, которые не решил самостоятельно:
