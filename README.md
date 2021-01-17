@@ -11,8 +11,14 @@
 
 16.01.21
 860. Lemonade Change - Easy
+836. Rectangle Overlap - Easy
+
+17.01.21
+414. Third Maximum Number - Easy
 
 
 Group A — список задач, которые не решил самостоятельно:
+836. Rectangle Overlap
+
 
 Group B — список задач, которые решил самостоятельно, но при этом очень страдал:
