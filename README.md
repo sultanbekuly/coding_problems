@@ -17,6 +17,8 @@
 344. Reverse String - Easy
 125. Valid Palindrome - Easy
 
+23.01.21
+1281. Subtract the Product and Sum of Digits of an Integer - Easy
 
 Group A — список задач, которые не решил самостоятельно:
 836. Rectangle Overlap
