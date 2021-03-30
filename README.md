@@ -1,24 +1,29 @@
 # coding_problems
 
 06.01.21
-412. Fizz Buzz - Easy
+- 412. Fizz Buzz - Easy
 
 11.01.21
-58. Length of Last word - Easy
+- 58. Length of Last word - Easy
 
 14.01.21
-771. Jewels and Stones - Easy
+- 771. Jewels and Stones - Easy
 
 16.01.21
-860. Lemonade Change - Easy
+- 860. Lemonade Change - Easy
 
 17.01.21
-414. Third Maximum Number - Easy
-344. Reverse String - Easy
-125. Valid Palindrome - Easy
+- 414. Third Maximum Number - Easy
+- 344. Reverse String - Easy
+- 125. Valid Palindrome - Easy
 
 23.01.21
-1281. Subtract the Product and Sum of Digits of an Integer - Easy
+- 1281. Subtract the Product and Sum of Digits of an Integer - Easy
+
+Passed course: Ultimate Coding Interview Bootcamp
+
+30.03.21
+- 836. Rectangle Overlap
 
 Group A — список задач, которые не решил самостоятельно:
 836. Rectangle Overlap
