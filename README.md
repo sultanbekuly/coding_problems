@@ -24,6 +24,9 @@ Passed course: Ultimate Coding Interview Bootcamp
 
 30.03.21</br>
 836. Rectangle Overlap
+Learnt: Markdown
+Learnt:1D arrays. Prefix sums
+
 
 Group A — список задач, которые не решил самостоятельно:</br>
 836. Rectangle Overlap
