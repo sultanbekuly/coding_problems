@@ -13,8 +13,8 @@
 860. Lemonade Change - Easy
 
 17.01.21</br>
-414. Third Maximum Number - Easy
-344. Reverse String - Easy
+414. Third Maximum Number - Easy</br>
+344. Reverse String - Easy</br>
 125. Valid Palindrome - Easy
 
 23.01.21</br>
@@ -23,13 +23,13 @@
 Passed course: Ultimate Coding Interview Bootcamp
 
 30.03.21</br>
-836. Rectangle Overlap
-Learnt: Markdown
+836. Rectangle Overlap</br>
+Learnt: Markdown</br>
 Learnt:1D arrays. Prefix sums
 
 
 Group A — список задач, которые не решил самостоятельно:</br>
-836. Rectangle Overlap
+836. Rectangle Overlap</br>
 
 
 Group B — список задач, которые решил самостоятельно, но при этом очень страдал:
