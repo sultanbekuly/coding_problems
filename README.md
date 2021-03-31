@@ -27,6 +27,10 @@ Passed course: Ultimate Coding Interview Bootcamp
 Learnt: Markdown</br>
 Learnt:1D arrays. Prefix sums
 
+31.03.21</br>
+303. Range Sum Query - Immutable</br>
+304. Range Sum Query 2D - Immutable </br>
+Learnt: 2D arrays.</br>
 
 Group A — список задач, которые не решил самостоятельно:</br>
 836. Rectangle Overlap</br>
