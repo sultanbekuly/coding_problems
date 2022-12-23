@@ -32,8 +32,8 @@ Learnt:1D arrays. Prefix sums
 304. Range Sum Query 2D - Immutable </br>
 Learnt: 2D arrays.</br>
 
-Group A — список задач, которые не решил самостоятельно:</br>
+Group A:</br>
 836. Rectangle Overlap</br>
 
 
-Group B — список задач, которые решил самостоятельно, но при этом очень страдал:
+Group B:
