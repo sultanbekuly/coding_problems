@@ -1,8 +1,10 @@
 
 def countdown(i):
     print(i)
+    #base case
     if(i <= 1):
-        return
+        return 0
+    #recursive case
     else:
         countdown(i-1)
 
