@@ -10,6 +10,8 @@
 #Time complexity - O(N) - N is first string length
 #Space complexity - O(N) - N is first string length
 
+#Another idea is to sort both strings and then check if they are the same. TC is O(NlogN) but SC is O(1)
+
 def Check_Permitation(str1, str2):
 	print(str1, ";", str2)
 	HM = {}
