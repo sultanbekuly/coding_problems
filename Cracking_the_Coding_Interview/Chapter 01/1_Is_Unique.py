@@ -27,7 +27,7 @@ print( is_Unique("cba"))
 print( is_Unique("cbc"))
 
 
-#charset = [False for _ in range(128)] -> fill the array with False values
+#charset = [False for _ in range(128)] -> fill the array with 128 False values
 
 #ord(char) -> provides ASCII numeric representation of the char
 
