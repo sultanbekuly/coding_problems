@@ -8,7 +8,7 @@
 #return true
 
 #Time complexity - O(N) - N is first string length
-#Space complexity - O(N) - N is first string length
+#Space complexity - O(N) - N is first string length; O(1) - 128 characters
 
 #Another idea is to sort both strings and then check if they are the same. TC is O(NlogN) but SC is O(1)
 
