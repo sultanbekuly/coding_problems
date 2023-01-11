@@ -12,7 +12,7 @@
 # So, first, I would convert every letter to lower case.
 # and get rid off space(s)
 #If input string length devided by two without remainder,
-# it means every letter should occur twice(or 4,6..)(even number)
+# it means every letter should occur twice(or 4,6..)(even number times)
 # else, the same logic but only one char can occur twice
 #Clarify, if the string is ASCII(or extended ASCII) or Unicode
 # Then, We can create an array with 128 elements for ASCII filled with zeros
@@ -20,6 +20,9 @@
 #  convert every char to its numeric representation - ord()
 #  and increment according array element
 # Then go through the array and check if there are only one or no odd elements
+
+#TC - O(N)
+#SC - O(1)
 
 def Polindrome_Permutation(input:str):
     print(input)
@@ -32,10 +35,16 @@ def Polindrome_Permutation(input:str):
     for i in updated_input:
         ASCII_arr[ord(i)] += 1
     
-    len(updated_input)%2 # check if one or zero odd numbers are allowed
+    allowed_odd = len(updated_input)%2 # check if one or zero odd numbers are allowed
+    count_odd = 0
     for i in ASCII_arr:
         if(i%2 != 0): #odd number
+            count_odd+=1
+        if(count_odd > allowed_odd):
             return False
+    return True
 
 
-print(Polindrome_Permutation("Tact Coa"))
+print(Polindrome_Permutation("Tact Coa"))   #True
+print(Polindrome_Permutation("Tact CoaS"))  #False
+
