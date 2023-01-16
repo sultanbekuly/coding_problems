@@ -32,7 +32,7 @@ Learnt:1D arrays. Prefix sums
 304. Range Sum Query 2D - Immutable </br>
 Learnt: 2D arrays.</br>
 </br>
-Read: Grooking Algorithms</br>
+Finished Reading: Grooking Algorithms</br>
 </br>
 </br>
 Started: Cracking the Coding Interview</br>
