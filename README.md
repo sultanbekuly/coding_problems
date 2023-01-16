@@ -34,6 +34,9 @@ Learnt: 2D arrays.</br>
 </br>
 Read: Grooking Algorithms</br>
 </br>
+</br>
+Started: Cracking the Coding Interview</br>
+</br>
 15.01.23</br>
 500. Keyboard Row.py</br>
 599. Minimum Index Sum of Two Lists.py</br>
