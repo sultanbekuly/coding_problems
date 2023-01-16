@@ -54,4 +54,4 @@ strs = ["a"]
 print(groupAnagrams(strs))
 # Output: [["a"]]
 
-#it takes too long and takes too much memory
+#it takes long and takes much memory
