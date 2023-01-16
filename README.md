@@ -31,9 +31,22 @@ Learnt:1D arrays. Prefix sums
 303. Range Sum Query - Immutable</br>
 304. Range Sum Query 2D - Immutable </br>
 Learnt: 2D arrays.</br>
+</br>
+Read: Grooking Algorithms</br>
+</br>
+15.01.23</br>
+500. Keyboard Row.py</br>
+599. Minimum Index Sum of Two Lists.py</br>
+748. Shortest Completing Word.py</br>
+
+16.01.23 </br>
+49. Group Anagrams</br>
+57. Insert Interval</br>
 
 Group A:</br>
 836. Rectangle Overlap</br>
 
 
-Group B:
+Group B:</br>
+M / 57. Insert Interval </br>
+
