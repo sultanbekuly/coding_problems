@@ -51,6 +51,8 @@ class LinkedList:
 
 
 def Remove_Dups(ll):
+    if(ll.head is None):
+        return
     print(ll)
     hm = {}
     curr_node = ll.head
