@@ -19,6 +19,7 @@ class LinkedList:
         self.tail.next = the_node
         self.tail = the_node
         self.length += 1
+        return self.tail
     def prepend(self, data):
         the_node = Node(data)
         the_node.next = self.head
@@ -38,3 +39,6 @@ class LinkedList:
         for i in range(n-1):
             self.append(randint(min_value, max_value))
         return self
+    def add_multiple(self, values):
+        for value in values:
+            self.append(value)
