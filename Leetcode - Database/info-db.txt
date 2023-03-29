@@ -1,0 +1,29 @@
+Review later:
+--
+Solved:
+M / 177. Nth Highest Salary - 23.03.23
+M / 176. Second Highest Salary - 23.03.23
+
+M / 180. Consecutive Numbers - 24.03.23
+
+E / 196. Delete Duplicate Emails - 25.03.23
+H / 185. Department Top Three Salaries
+M / 184. Department Highest Salary
+
+H / 262. Trips and Users - 26.03.23
+E / 197. Rising Temperature - 26.03.23
+
+M / 608. Tree Node - 27.03.23
+E / 607. Sales Person
+H / 601. Human Traffic of Stadium
+
+M / 1393. Capital Gain/Loss - 28.03.23
+M / 1158. Market Analysis I - 28.03.23
+E / 627. Swap Salary - 28.03.23
+M / 626. Exchange Seats - 28.03.23
+
+E / 1873. Calculate Special Bonus - 29.03.23
+
+--
+Not solved:
+
