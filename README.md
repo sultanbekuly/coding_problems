@@ -46,9 +46,14 @@ Started: Cracking the Coding Interview 07.01.23</br>
 49. Group Anagrams</br>
 57. Insert Interval</br>
 
+01.04.23 </br>
+704. Binary Search
+
+
 Group A:</br>
-836. Rectangle Overlap</br>
-CtCI / LL / 8</br>
+836. Rectangle Overlap </br>
+CtCI / LL / 8 </br>
+E / 704. Binary Search </br>
 
 Group B:</br>
 M / 0057. Insert Interval </br>
