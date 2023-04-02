@@ -47,13 +47,17 @@ Started: Cracking the Coding Interview 07.01.23</br>
 57. Insert Interval</br>
 
 01.04.23 </br>
-704. Binary Search
+704. Binary Search </br>
+
+02.04.23 </br>
+2300. Successful Pairs of Spells and Potions </br>
 
 
 Group A:</br>
 836. Rectangle Overlap </br>
 CtCI / LL / 8 </br>
 E / 704. Binary Search </br>
+M / 2300. Successful Pairs of Spells and Potions </br>
 
 Group B:</br>
 M / 0057. Insert Interval </br>
