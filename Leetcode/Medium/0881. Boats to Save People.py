@@ -43,6 +43,6 @@ edge cases:
 #test = Solution()
 #people = [3,2,2,1]
 #limit = 3
-#print(test.numRescueBoats(people, limit))
+#print(test.numRescueBoats(people, limit)) 
 
 
