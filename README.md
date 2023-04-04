@@ -55,6 +55,8 @@ Started: Cracking the Coding Interview 07.01.23</br>
 03.04.23 </br>
 881. Boats to Save People </br>
 
+04.04.23 </br>
+2405. Optimal Partition of String </br>
 
 Group A:</br>
 836. Rectangle Overlap </br>
