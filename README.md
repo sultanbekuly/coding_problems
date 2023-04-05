@@ -58,14 +58,20 @@ Started: Cracking the Coding Interview 07.01.23</br>
 04.04.23 </br>
 2405. Optimal Partition of String </br>
 
+05.04.23 </br>
+2439. Minimize Maximum of Array </br>
+
+
 Group A:</br>
 836. Rectangle Overlap </br>
 CtCI / LL / 8 </br>
 E / 704. Binary Search </br>
 M / 2300. Successful Pairs of Spells and Potions </br>
+M / 2439. Minimize Maximum of Array </br>
 
 Group B:</br>
 M / 0057. Insert Interval </br>
 M / 0019. Remove Nth Node From End of List </br>
+
 
 
