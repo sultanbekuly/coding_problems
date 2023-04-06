@@ -61,6 +61,8 @@ Started: Cracking the Coding Interview 07.01.23</br>
 05.04.23 </br>
 2439. Minimize Maximum of Array </br>
 
+06.04.23 </br>
+1254. Number of Closed Islands </br>
 
 Group A:</br>
 836. Rectangle Overlap </br>
@@ -72,6 +74,6 @@ M / 2439. Minimize Maximum of Array </br>
 Group B:</br>
 M / 0057. Insert Interval </br>
 M / 0019. Remove Nth Node From End of List </br>
-
+M / 1254. Number of Closed Islands </br>
 
 
