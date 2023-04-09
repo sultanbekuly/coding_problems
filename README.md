@@ -67,6 +67,10 @@ Started: Cracking the Coding Interview 07.01.23</br>
 08.04.23 </br>
 133. Clone Graph </br>
 
+09.04.23 </br>
+1857. Largest Color Value in a Directed Graph 08.04.23 </br>
+
+
 
 Group A:</br>
 836. Rectangle Overlap </br>
@@ -75,6 +79,7 @@ E / 704. Binary Search </br>
 M / 2300. Successful Pairs of Spells and Potions </br>
 M / 2439. Minimize Maximum of Array </br>
 M / 133. Clone Graph </br>
+H / 1857. Largest Color Value in a Directed Graph 08.04.23 </br>
 
 Group B:</br>
 M / 0057. Insert Interval </br>
