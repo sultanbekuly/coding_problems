@@ -70,7 +70,8 @@ Started: Cracking the Coding Interview 07.01.23</br>
 09.04.23 </br>
 1857. Largest Color Value in a Directed Graph 08.04.23 </br>
 
-
+10.04.23 </br>
+20. Valid Parentheses </br>
 
 Group A:</br>
 836. Rectangle Overlap </br>
