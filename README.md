@@ -73,6 +73,10 @@ Started: Cracking the Coding Interview 07.01.23</br>
 10.04.23 </br>
 20. Valid Parentheses </br>
 
+11.04.23 </br>
+2390. Removing Stars From a String </br>
+
+
 Group A:</br>
 836. Rectangle Overlap </br>
 CtCI / LL / 8 </br>
