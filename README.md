@@ -76,6 +76,9 @@ Started: Cracking the Coding Interview 07.01.23</br>
 11.04.23 </br>
 2390. Removing Stars From a String </br>
 
+11.04.23 </br>
+71. Simplify Path </br>
+
 
 Group A:</br>
 836. Rectangle Overlap </br>
