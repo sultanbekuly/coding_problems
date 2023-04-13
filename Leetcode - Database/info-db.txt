@@ -22,7 +22,7 @@ M / 1158. Market Analysis I - 28.03.23
 E / 627. Swap Salary - 28.03.23
 M / 626. Exchange Seats - 28.03.23
 
-E / 1873. Calculate Special Bonus - 29.03.23
+E / 1873. Calculate Special Bonus - 29.03.23 - 13.04.23
 
 --
 Not solved:
