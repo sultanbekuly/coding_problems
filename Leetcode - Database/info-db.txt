@@ -6,7 +6,6 @@ M / 176. Second Highest Salary - 23.03.23
 
 M / 180. Consecutive Numbers - 24.03.23
 
-E / 196. Delete Duplicate Emails - 25.03.23
 H / 185. Department Top Three Salaries
 M / 184. Department Highest Salary
 
@@ -25,5 +24,6 @@ M / 626. Exchange Seats - 28.03.23
 Not solved:
 E / 1873. Calculate Special Bonus - 29.03.23 - 13.04.23
 E / 627. Swap Salary - 28.03.23 - 13.04.23
+E / 196. Delete Duplicate Emails - 25.03.23 - 13.04.23
 
 
