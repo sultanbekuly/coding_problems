@@ -76,8 +76,11 @@ Started: Cracking the Coding Interview 07.01.23</br>
 11.04.23 </br>
 2390. Removing Stars From a String </br>
 
-11.04.23 </br>
+12.04.23 </br>
 71. Simplify Path </br>
+
+13.04.23 </br>
+946. Validate Stack Sequences </br>
 
 
 Group A:</br>
@@ -88,6 +91,7 @@ M / 2300. Successful Pairs of Spells and Potions </br>
 M / 2439. Minimize Maximum of Array </br>
 M / 133. Clone Graph </br>
 H / 1857. Largest Color Value in a Directed Graph 08.04.23 </br>
+M / 946. Validate Stack Sequences </br>
 
 Group B:</br>
 M / 0057. Insert Interval </br>
