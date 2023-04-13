@@ -20,6 +20,9 @@ M / 1393. Capital Gain/Loss - 28.03.23
 M / 1158. Market Analysis I - 28.03.23
 M / 626. Exchange Seats - 28.03.23
 
+E / 1667. Fix Names in a Table - 13.04.23
+
+
 --
 Not solved:
 E / 1873. Calculate Special Bonus - 29.03.23 - 13.04.23
