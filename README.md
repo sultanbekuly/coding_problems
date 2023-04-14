@@ -82,6 +82,9 @@ Started: Cracking the Coding Interview 07.01.23</br>
 13.04.23 </br>
 946. Validate Stack Sequences </br>
 
+14.04.23 </br>
+516. Longest Palindromic Subsequence </br>
+
 
 Group A:</br>
 836. Rectangle Overlap </br>
@@ -92,6 +95,8 @@ M / 2439. Minimize Maximum of Array </br>
 M / 133. Clone Graph </br>
 H / 1857. Largest Color Value in a Directed Graph 08.04.23 </br>
 M / 946. Validate Stack Sequences </br>
+M / 516. Longest Palindromic Subsequence </br>
+
 
 Group B:</br>
 M / 0057. Insert Interval </br>
