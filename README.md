@@ -85,6 +85,9 @@ Started: Cracking the Coding Interview 07.01.23</br>
 14.04.23 </br>
 516. Longest Palindromic Subsequence </br>
 
+15.04.23 </br>
+2218. Maximum Value of K Coins From Piles </br>
+
 
 Group A:</br>
 836. Rectangle Overlap </br>
@@ -96,6 +99,7 @@ M / 133. Clone Graph </br>
 H / 1857. Largest Color Value in a Directed Graph 08.04.23 </br>
 M / 946. Validate Stack Sequences </br>
 M / 516. Longest Palindromic Subsequence </br>
+H / 2218. Maximum Value of K Coins From Piles </br>
 
 
 Group B:</br>
