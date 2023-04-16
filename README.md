@@ -88,6 +88,9 @@ Started: Cracking the Coding Interview 07.01.23</br>
 15.04.23 </br>
 2218. Maximum Value of K Coins From Piles </br>
 
+16.04.23 </br>
+1639. Number of Ways to Form a Target String Given a Dictionary </br>
+
 
 Group A:</br>
 836. Rectangle Overlap </br>
@@ -100,6 +103,7 @@ H / 1857. Largest Color Value in a Directed Graph 08.04.23 </br>
 M / 946. Validate Stack Sequences </br>
 M / 516. Longest Palindromic Subsequence </br>
 H / 2218. Maximum Value of K Coins From Piles </br>
+H / 1639. Number of Ways to Form a Target String Given a Dictionary </br>
 
 
 Group B:</br>
