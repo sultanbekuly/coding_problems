@@ -69,8 +69,25 @@ class stackThreeInOne():
 
     def push(self, arr_num, val): #arr_num 0/1/2
         #if stack top+1 is equal to start of next one, then we need to move to one cell the next stack
-
         stack_top_index = self.stack_top[arr_num]
+        
+        if(stack_top_index == self.stack_end[arr_num]):
+            #update stack_end
+            next_arr_num = arr_num + 1 if not (arr_num + 1 > 2) else 0
+            print("next_arr_num:", next_arr_num)
+            self.stack_end[arr_num] = self.stack_start[next_arr_num]
+
+            if(self.stack_top[next_arr_num] is None):
+                #if next stack is empty
+                self.stack_start[next_arr_num] += 1 # increment next start by one
+            else:
+                #if next stack is not empty
+                #we need to move its items
+                    #1: [1234,123 None None] -> [1234,None 123 None]
+                    #2: 
+
+
+        
         if stack_top_index == None:                     #None -> place to 0
             self.stack_top[arr_num] = self.stack_start[arr_num] #stack top initialization
             self.arr_stack[ self.stack_top[arr_num] ] = val
@@ -83,19 +100,19 @@ class stackThreeInOne():
         stack_top_index = self.stack_top[arr_num]
         if(stack_top_index == None):
             return None
-
         val = self.arr_stack[ stack_top_index ]
         self.arr_stack[ stack_top_index ] = None
         self.stack_top[arr_num] -= 1                            #this one should be checked for array wrapping
         if self.stack_top[arr_num] < self.stack_start[arr_num]:
             self.stack_top[arr_num] = None
         return val
-    #def peek(self):
-    #    if(self.top == None):
-    #        return None
-    #    return self.top.val
-    #def isEmpty(self):
-    #    return self.top == None
+    def peek(self, arr_num):
+        stack_top_index = self.stack_top[arr_num]
+        if(stack_top_index == None):
+            return None
+        return self.arr_stack[ stack_top_index ]
+    def isEmpty(self, arr_num):
+        return self.stack_top[arr_num] == None
         
 stackTiO = stackThreeInOne(15)
 #0 4 5 9 10 14
@@ -106,13 +123,25 @@ for i in range(3):
     stackTiO.push(2,i)
 print("stackTiO.arr_stack:",stackTiO.arr_stack )
 
+for i in range(3):
+    print("stackTiO.peek(i):",i,stackTiO.peek(i))
+    print("stackTiO.isEmpty(i):",i,stackTiO.isEmpty(i))
+    
+
 for i in range(4):
     print("pop:",stackTiO.pop(0))
     print("pop:",stackTiO.pop(1))
     print("pop:",stackTiO.pop(2))
     print("stackTiO.arr_stack:",stackTiO.arr_stack )
 
+for i in range(3):
+    print("stackTiO.peek(i):",i,stackTiO.peek(i))
+    print("stackTiO.isEmpty(i):",i,stackTiO.isEmpty(i))
 
+#overload one stack
+for i in range(6):
+    stackTiO.push(1, i)
+print("stackTiO.arr_stack:",stackTiO.arr_stack )
 
 #stackTiO = stackThreeInOne(10)
 #stackTiO = stackThreeInOne(100)
