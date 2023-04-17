@@ -67,35 +67,62 @@ class stackThreeInOne():
         for i in self.stack_top:
             print("self.stack_start:",i)
 
+    def __str__(self):
+        for i in self.stack_start:
+            print("self.stack_start:",i)
+        for i in self.stack_end:
+            print("self.stack_end:",i)
+        for i in self.stack_top:
+            print("self.stack_top:",i)
+        print("self.arr_stack:",self.arr_stack)
+        return ("---")
+
     def push(self, arr_num, val): #arr_num 0/1/2
         #if stack top+1 is equal to start of next one, then we need to move to one cell the next stack
         stack_top_index = self.stack_top[arr_num]
-        
-        if(stack_top_index == self.stack_end[arr_num]):
-            #update stack_end
-            next_arr_num = arr_num + 1 if not (arr_num + 1 > 2) else 0
-            print("next_arr_num:", next_arr_num)
-            self.stack_end[arr_num] = self.stack_start[next_arr_num]
-
-            if(self.stack_top[next_arr_num] is None):
-                #if next stack is empty
-                self.stack_start[next_arr_num] += 1 # increment next start by one
-            else:
-                #if next stack is not empty
-                #we need to move its items
-                    #1: [1234,123 None None] -> [1234,None 123 None]
-                    #2: 
-
-
-        
+        """
+        #if(stack_top_index == self.stack_end[arr_num]):
+        #    #update stack_end
+        #    next_arr_num = arr_num + 1 if not (arr_num + 1 > 2) else 0
+        #    print("next_arr_num:", next_arr_num)
+        #    self.stack_end[arr_num] = self.stack_start[next_arr_num]
+            
+        #    if(self.stack_top[next_arr_num] is None):
+        #        #if next stack is empty
+        #        self.stack_start[next_arr_num] += 1 # increment next start by one
+        #    else:
+        #        #if next stack is not empty
+        #        #we need to move its items
+        #            #1: [1234,123 None None] -> [1234,None 123 None]
+        #            #2: [N,N,N,N,N,1 2 3 4 5, 1 2 3 4 5] ->[5,N,N,N,N,1 2 3 4 5, N 1 2 3 4]
+        #            #2: [1,N,N,N,N,1 2 3 4 5, 1 2 3 4 5] ->[5,1,N,N,N,1 2 3 4 5, N 1 2 3 4]
+        #        next_next_arr_num = next_arr_num + 1 if not (next_arr_num + 1 > 2) else 0
+        #        if(self.stack_top[next_next_arr_num] is None):
+        #            #if next next stack is empty
+        #            print("range(self.stack_top[next_arr_num],self.stack_start[next_arr_num],-1)", 
+        #                  range(self.stack_top[next_arr_num],self.stack_start[next_arr_num]),-1)
+        #            for i in range(self.stack_top[next_arr_num],self.stack_start[next_arr_num],-1):
+        #                #from end to start (10 -> 5)
+        #                print("self.arr_stack[i+1]",self.arr_stack[i+1], "self.arr_stack[i]", self.arr_stack[i] )
+        #                self.arr_stack[i+1] = self.arr_stack[i]
+                        
+        #            self.stack_end[next_arr_num] += 1
+        #            self.stack_start[next_arr_num] += 1
+        #            self.stack_top[next_arr_num] += 1
+        #        else:
+        #            #if next next stack is not empty
+        #            print("oops")
+        """
+                       
         if stack_top_index == None:                     #None -> place to 0
             self.stack_top[arr_num] = self.stack_start[arr_num] #stack top initialization
             self.arr_stack[ self.stack_top[arr_num] ] = val
+        elif( self.isFull(arr_num) ):
+            return "Failed. The stack is full."
         else:
             self.arr_stack[ stack_top_index + 1 ] = val  #0/1 -> place to 1/2
             self.stack_top[arr_num] += 1
-
-        
+            
     def pop(self, arr_num):
         stack_top_index = self.stack_top[arr_num]
         if(stack_top_index == None):
@@ -106,13 +133,18 @@ class stackThreeInOne():
         if self.stack_top[arr_num] < self.stack_start[arr_num]:
             self.stack_top[arr_num] = None
         return val
+
     def peek(self, arr_num):
         stack_top_index = self.stack_top[arr_num]
         if(stack_top_index == None):
             return None
         return self.arr_stack[ stack_top_index ]
+
     def isEmpty(self, arr_num):
         return self.stack_top[arr_num] == None
+
+    def isFull(self, arr_num):
+        return self.stack_top[arr_num] == self.stack_end[arr_num]
         
 stackTiO = stackThreeInOne(15)
 #0 4 5 9 10 14
@@ -138,10 +170,16 @@ for i in range(3):
     print("stackTiO.peek(i):",i,stackTiO.peek(i))
     print("stackTiO.isEmpty(i):",i,stackTiO.isEmpty(i))
 
+print(stackTiO)
 #overload one stack
-for i in range(6):
+for i in range(4):
+    stackTiO.push(2, i)
+
+for i in range(7):
+    print("-- stackTiO.push(1, i)", i)
     stackTiO.push(1, i)
-print("stackTiO.arr_stack:",stackTiO.arr_stack )
+print(stackTiO)
+
 
 #stackTiO = stackThreeInOne(10)
 #stackTiO = stackThreeInOne(100)
