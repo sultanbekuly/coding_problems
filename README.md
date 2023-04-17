@@ -22,10 +22,10 @@
 
 Passed course: Ultimate Coding Interview Bootcamp
 
-30.03.21</br>
-836. Rectangle Overlap</br>
-Learnt: Markdown</br>
-Learnt:1D arrays. Prefix sums
+30.03.21 </br>
+836. Rectangle Overlap </br>
+Learnt: Markdown </br>
+Learnt:1D arrays. Prefix sums </br>
 
 31.03.21</br>
 303. Range Sum Query - Immutable</br>
@@ -93,6 +93,7 @@ Started: Cracking the Coding Interview 07.01.23</br>
 
 17.04.23 </br>
 1431. Kids With the Greatest Number of Candies </br>
+CtCI / 03 / 1 </br>
 
 
 Group A:</br>
@@ -113,5 +114,6 @@ Group B:</br>
 M / 0057. Insert Interval </br>
 M / 0019. Remove Nth Node From End of List </br>
 M / 1254. Number of Closed Islands </br>
+CtCI / 03 / 1 </br>
 
 
