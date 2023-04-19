@@ -98,6 +98,10 @@ CtCI / 03 / 1 </br>
 18.04.23 </br>
 1768. Merge Strings Alternately </br>
 
+18.04.23 </br>
+1372. Longest ZigZag Path in a Binary Tree </br>
+
+
 
 Group A:</br>
 836. Rectangle Overlap </br>
@@ -118,5 +122,7 @@ M / 0057. Insert Interval </br>
 M / 0019. Remove Nth Node From End of List </br>
 M / 1254. Number of Closed Islands </br>
 CtCI / 03 / 1 </br>
+1372. Longest ZigZag Path in a Binary Tree </br>
+	
 
 
