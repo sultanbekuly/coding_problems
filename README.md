@@ -98,7 +98,7 @@ CtCI / 03 / 1 </br>
 18.04.23 </br>
 1768. Merge Strings Alternately </br>
 
-18.04.23 </br>
+19.04.23 </br>
 1372. Longest ZigZag Path in a Binary Tree </br>
 
 20.04.23 </br>
@@ -106,6 +106,8 @@ CtCI / 03 / 1 </br>
 
 21.04.23 </br>
 879. Profitable Schemes </br>
+CtCI / 03 / 2_Stack_Min </br> 
+
 
 
 Group A:</br>
@@ -131,6 +133,6 @@ M / 0019. Remove Nth Node From End of List </br>
 M / 1254. Number of Closed Islands </br>
 CtCI / 03 / 1 </br>
 1372. Longest ZigZag Path in a Binary Tree </br>
-	
+CtCI / 03 / 2 </br> 	
 
 
