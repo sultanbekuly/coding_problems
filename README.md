@@ -101,6 +101,8 @@ CtCI / 03 / 1 </br>
 18.04.23 </br>
 1372. Longest ZigZag Path in a Binary Tree </br>
 
+20.04.23 </br>
+662. Maximum Width of Binary Tree </br>
 
 21.04.23 </br>
 879. Profitable Schemes </br>
@@ -118,6 +120,7 @@ M / 946. Validate Stack Sequences </br>
 M / 516. Longest Palindromic Subsequence </br>
 H / 2218. Maximum Value of K Coins From Piles </br>
 H / 1639. Number of Ways to Form a Target String Given a Dictionary </br>
+M / 662. Maximum Width of Binary Tree </br>
 H / 879. Profitable Schemes </br>
 
 
