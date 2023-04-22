@@ -111,6 +111,7 @@ CtCI / 03 / 2_Stack_Min </br>
 22.04.23 </br>
 1312. Minimum Insertion Steps to Make a String Palindrome  </br>
 CtCI / 03 / 3_Stack_of_Plates  </br>
+CtCI / 03 / 4_Queue_via_Stacks  </br>
 
 
 Group A:</br>
@@ -138,5 +139,6 @@ M / 1254. Number of Closed Islands </br>
 CtCI / 03 / 1 </br>
 1372. Longest ZigZag Path in a Binary Tree </br>
 CtCI / 03 / 2 </br> 	
+CtCI / 03 / 4_Queue_via_Stacks  </br>
 
 
