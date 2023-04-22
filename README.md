@@ -110,7 +110,7 @@ CtCI / 03 / 2_Stack_Min </br>
 
 22.04.23 </br>
 1312. Minimum Insertion Steps to Make a String Palindrome  </br>
-
+CtCI / 03 / 3_Stack_of_Plates  </br>
 
 
 Group A:</br>

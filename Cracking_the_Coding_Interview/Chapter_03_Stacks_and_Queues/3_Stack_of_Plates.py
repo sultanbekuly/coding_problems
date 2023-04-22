@@ -7,8 +7,8 @@ create a new stack once the previous one exceeds capacity. SetOfStacks. push() a
 SetOfStacks. pop() should behave identically to a single stack (that is, pop() should 
 return the same values as it would if there were just a single stack).
 FOLLOW UP
-ImplementafunctionpopAt(int index)whichperformsapopoperationonaspecificsub-stack.
-Hints:#64, #87
+Implement a function popAt(int index) which performs a pop operation on a specific sub-stack.
+Hints:#64, #81
 """
 
 class stack_node():
@@ -40,34 +40,88 @@ class stack():
 #11 .. 19 20
 
 class SetOfStacks():
-    def __init__(self, stack_size) -> None:
-        self.stack_size = stack_size
+    def __init__(self, threshold) -> None:
+        self.threshold = threshold
         self.counter = 0
-        self.superStackTop = None 
+        #self.superStackTop = None 
         self.top = None
+        self.arr = []
+        self.topStack = stack() #None
+        self.arr.append( self.topStack )
+        #self.arr.append( [self.top ,counter] )
+
 
 
     def push(self, val):
-        if( self.counter == self.stack_size):
+        if( self.counter == self.threshold):        #counter exceed threshold
             self.counter = 0            # reset 
+            self.topStack = None
+            #self.arr.append( [self.top ,counter] )
+            self.topStack = stack()     #Create new stack
+            self.arr.append( self.topStack )
+
+        self.topStack.push(val)
+        self.counter += 1
+
+    def pop(self):
+        if self.isEmpty():
+            return None
+        val = self.topStack.pop()
+        self.counter -= 1               #double check it
+        #print("self.isEmpty():", self.isEmpty())
+        #print("len(self.arr)>1", len(self.arr)>1)
+        if self.isEmpty() and len(self.arr)>1 : 
+            print("if self.isEmpty() and len(self.arr)>1 : ")
+            self.arr.pop()
+            self.topStack = self.arr[-1]
+            self.counter = self.threshold
+        return val
+
+    def peek(self):
+        if self.isEmpty():
+            return None
+        return self.topStack.peek()
+
+    def isEmpty(self):
+        return self.topStack.isEmpty()
+
+
+        
+
+test  = SetOfStacks(5)
+
+for i in range(1,15):
+    test.push(i)
+    print("self.counter:", test.counter, "self.topStack.peek():",test.topStack.peek(), "self.arr:", test.arr)
+
+for i in range(17):
+    print("test.pop:", test.pop() )
+    print("self.counter:", test.counter, "self.topStack.peek():",test.topStack.peek(), "self.arr:", test.arr)
+
+
+for i in range(1,5):
+    test.push(i)
+    print("self.counter:", test.counter, "self.topStack.peek():",test.topStack.peek(), "self.arr:", test.arr)
+
+for i in range(3):
+    print("test.pop:", test.pop() )
+    print("self.counter:", test.counter, "self.topStack.peek():",test.topStack.peek(), "self.arr:", test.arr)
+
+for i in range(5,10):
+    test.push(i)
+    print("self.counter:", test.counter, "self.topStack.peek():",test.topStack.peek(), "self.arr:", test.arr)
 
 
 
+#FOLLOW UP
+#Implement a function popAt(int index) which performs a pop operation on a specific sub-stack.
+"""
+we can implement it by adding count parameter for array which stores the sub-stacks
+or we can make so that the substack will store its counts
+
+It is imported to discuss and get trade-offs with interviewer
+(There can be a need to keep all stacks in full capacity)
+"""
 
 
 
-    
-# my_stack = stack()
-
-# for i in range(5):
-#     my_stack.push(i) #0,1,2,3,4
-
-# print(my_stack.isEmpty())
-# print(my_stack.peek())
-
-# for _ in range(5):
-#     print("pop:", my_stack.pop())
-#     print(my_stack.peek())
-
-# print(my_stack.peek())
-# print(my_stack.isEmpty())
