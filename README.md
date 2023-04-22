@@ -108,6 +108,9 @@ CtCI / 03 / 1 </br>
 879. Profitable Schemes </br>
 CtCI / 03 / 2_Stack_Min </br> 
 
+22.04.23 </br>
+1312. Minimum Insertion Steps to Make a String Palindrome  </br>
+
 
 
 Group A:</br>
@@ -124,6 +127,7 @@ H / 2218. Maximum Value of K Coins From Piles </br>
 H / 1639. Number of Ways to Form a Target String Given a Dictionary </br>
 M / 662. Maximum Width of Binary Tree </br>
 H / 879. Profitable Schemes </br>
+H / 1312. Minimum Insertion Steps to Make a String Palindrome  </br>
 
 
 
