@@ -113,6 +113,9 @@ CtCI / 03 / 2_Stack_Min </br>
 CtCI / 03 / 3_Stack_of_Plates  </br>
 CtCI / 03 / 4_Queue_via_Stacks  </br>
 
+23.04.23 </br>
+1416. Restore The Array </br>
+
 
 Group A:</br>
 836. Rectangle Overlap </br>
@@ -129,6 +132,7 @@ H / 1639. Number of Ways to Form a Target String Given a Dictionary </br>
 M / 662. Maximum Width of Binary Tree </br>
 H / 879. Profitable Schemes </br>
 H / 1312. Minimum Insertion Steps to Make a String Palindrome  </br>
+H / 1416. Restore The Array </br>
 
 
 
