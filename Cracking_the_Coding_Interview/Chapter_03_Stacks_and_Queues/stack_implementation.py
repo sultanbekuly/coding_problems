@@ -28,6 +28,13 @@ class stack():
         return self.top.val
     def isEmpty(self):
         return self.top == None
+    def __str__(self):
+        arr = []
+        node = self.top
+        while( node != None ):
+            arr.append( str(node.val) )
+            node = node.next
+        return "->".join(arr)
         
     
 my_stack = stack()
