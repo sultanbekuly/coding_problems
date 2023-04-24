@@ -116,6 +116,9 @@ CtCI / 03 / 4_Queue_via_Stacks  </br>
 23.04.23 </br>
 1416. Restore The Array </br>
 
+24.04.23 </br>
+1046. Last Stone Weight </br>
+
 
 Group A:</br>
 836. Rectangle Overlap </br>
