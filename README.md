@@ -119,6 +119,10 @@ CtCI / 03 / 4_Queue_via_Stacks  </br>
 24.04.23 </br>
 1046. Last Stone Weight </br>
 
+24.04.23 </br>
+2336. Smallest Number in Infinite Set </br>
+
+
 
 Group A:</br>
 836. Rectangle Overlap </br>
