@@ -125,6 +125,10 @@ CtCI / 03 / 4_Queue_via_Stacks  </br>
 26.04.23 </br>
 258. Add Digits </br>
 
+27.04.23 </br>
+319. Bulb Switcher </br>
+
+
 
 
 
@@ -144,6 +148,7 @@ M / 662. Maximum Width of Binary Tree </br>
 H / 879. Profitable Schemes </br>
 H / 1312. Minimum Insertion Steps to Make a String Palindrome  </br>
 H / 1416. Restore The Array </br>
+M / 319. Bulb Switcher </br>
 
 
 
