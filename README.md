@@ -128,7 +128,8 @@ CtCI / 03 / 4_Queue_via_Stacks  </br>
 27.04.23 </br>
 319. Bulb Switcher </br>
 
-
+28.04.23 </br>
+839. Similar String Groups </br>
 
 
 
@@ -149,6 +150,7 @@ H / 879. Profitable Schemes </br>
 H / 1312. Minimum Insertion Steps to Make a String Palindrome  </br>
 H / 1416. Restore The Array </br>
 M / 319. Bulb Switcher </br>
+H / 839. Similar String Groups </br>
 
 
 
