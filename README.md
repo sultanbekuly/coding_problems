@@ -162,7 +162,11 @@ CtCI / 03 / 4_Queue_via_Stacks  </br>
 1572. Matrix Diagonal Sum </br>
 
 09.05.23 </br>
-59. Spiral Matrix II
+59. Spiral Matrix II </br>
+
+10.05.23 </br>
+M / 1035. Uncrossed Lines </br>
+
 
 Group A:</br>
 836. Rectangle Overlap </br>
@@ -189,6 +193,7 @@ M / 1456. Maximum Number of Vowels in a Substring of Given Length </br>
 M / 1498. Number of Subsequences That Satisfy the Given Sum Condition </br>
 H / 1964. Find the Longest Valid Obstacle Course at Each Position </br>
 M / 59. Spiral Matrix II
+M / 1035. Uncrossed Lines </br>
 
 
 
