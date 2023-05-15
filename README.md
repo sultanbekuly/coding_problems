@@ -152,6 +152,9 @@ CtCI / 03 / 4_Queue_via_Stacks  </br>
 05.05.23 </br>
 1456. Maximum Number of Vowels in a Substring of Given Length </br>
 
+06.05.23 </br>
+1498. Number of Subsequences That Satisfy the Given Sum Condition </br>
+
 Group A:</br>
 836. Rectangle Overlap </br>
 CtCI / LL / 8 </br>
@@ -174,6 +177,7 @@ H / 1697. Checking Existence of Edge Length Limited Paths </br>
 H / 1579. Remove Max Number of Edges to Keep Graph Fully Traversable </br>
 M / 649. Dota2 Senate </br>
 M / 1456. Maximum Number of Vowels in a Substring of Given Length </br>
+M / 1498. Number of Subsequences That Satisfy the Given Sum Condition </br>
 
 
 
