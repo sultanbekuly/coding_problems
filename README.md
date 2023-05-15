@@ -155,6 +155,9 @@ CtCI / 03 / 4_Queue_via_Stacks  </br>
 06.05.23 </br>
 1498. Number of Subsequences That Satisfy the Given Sum Condition </br>
 
+07.05.23 </br>
+1964. Find the Longest Valid Obstacle Course at Each Position </br>
+
 Group A:</br>
 836. Rectangle Overlap </br>
 CtCI / LL / 8 </br>
@@ -178,6 +181,7 @@ H / 1579. Remove Max Number of Edges to Keep Graph Fully Traversable </br>
 M / 649. Dota2 Senate </br>
 M / 1456. Maximum Number of Vowels in a Substring of Given Length </br>
 M / 1498. Number of Subsequences That Satisfy the Given Sum Condition </br>
+H / 1964. Find the Longest Valid Obstacle Course at Each Position </br>
 
 
 
