@@ -131,7 +131,8 @@ CtCI / 03 / 4_Queue_via_Stacks  </br>
 28.04.23 </br>
 839. Similar String Groups </br>
 
-
+29.04.23 </br>
+1697. Checking Existence of Edge Length Limited Paths </br>
 
 Group A:</br>
 836. Rectangle Overlap </br>
@@ -151,6 +152,7 @@ H / 1312. Minimum Insertion Steps to Make a String Palindrome  </br>
 H / 1416. Restore The Array </br>
 M / 319. Bulb Switcher </br>
 H / 839. Similar String Groups </br>
+H / 1697. Checking Existence of Edge Length Limited Paths </br>
 
 
 
