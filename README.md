@@ -137,6 +137,9 @@ CtCI / 03 / 4_Queue_via_Stacks  </br>
 30.04.23 </br>
 1579. Remove Max Number of Edges to Keep Graph Fully Traversable </br>
 
+01.05.23 </br>
+1491. Average Salary Excluding the Minimum and Maximum Salary </br>
+
 Group A:</br>
 836. Rectangle Overlap </br>
 CtCI / LL / 8 </br>
