@@ -143,6 +143,9 @@ CtCI / 03 / 4_Queue_via_Stacks  </br>
 02.05.23 </br>
 1822. Sign of the Product of an Array </br>
 
+03.05.23 </br>
+2215. Find the Difference of Two Arrays </br>
+
 Group A:</br>
 836. Rectangle Overlap </br>
 CtCI / LL / 8 </br>
