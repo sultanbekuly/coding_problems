@@ -158,6 +158,9 @@ CtCI / 03 / 4_Queue_via_Stacks  </br>
 07.05.23 </br>
 1964. Find the Longest Valid Obstacle Course at Each Position </br>
 
+08.05.23 </br>
+1572. Matrix Diagonal Sum </br>
+
 Group A:</br>
 836. Rectangle Overlap </br>
 CtCI / LL / 8 </br>
