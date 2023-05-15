@@ -176,6 +176,9 @@ M / 2466. Count Ways To Build Good Strings </br>
 13.05.23 </br>
 H / 1799. Maximize Score After N Operations </br>
 
+14.05.23 </br>
+M / 1721. Swapping Nodes in a Linked List </br>
+
 Group A:</br>
 836. Rectangle Overlap </br>
 CtCI / LL / 8 </br>
