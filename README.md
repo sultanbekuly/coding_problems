@@ -134,6 +134,9 @@ CtCI / 03 / 4_Queue_via_Stacks  </br>
 29.04.23 </br>
 1697. Checking Existence of Edge Length Limited Paths </br>
 
+30.04.23 </br>
+1579. Remove Max Number of Edges to Keep Graph Fully Traversable </br>
+
 Group A:</br>
 836. Rectangle Overlap </br>
 CtCI / LL / 8 </br>
@@ -153,6 +156,7 @@ H / 1416. Restore The Array </br>
 M / 319. Bulb Switcher </br>
 H / 839. Similar String Groups </br>
 H / 1697. Checking Existence of Edge Length Limited Paths </br>
+H / 1579. Remove Max Number of Edges to Keep Graph Fully Traversable </br>
 
 
 
