@@ -140,6 +140,9 @@ CtCI / 03 / 4_Queue_via_Stacks  </br>
 01.05.23 </br>
 1491. Average Salary Excluding the Minimum and Maximum Salary </br>
 
+02.05.23 </br>
+1822. Sign of the Product of an Array </br>
+
 Group A:</br>
 836. Rectangle Overlap </br>
 CtCI / LL / 8 </br>
