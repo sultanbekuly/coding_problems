@@ -146,6 +146,9 @@ CtCI / 03 / 4_Queue_via_Stacks  </br>
 03.05.23 </br>
 2215. Find the Difference of Two Arrays </br>
 
+04.05.23 </br>
+649. Dota2 Senate </br>
+
 Group A:</br>
 836. Rectangle Overlap </br>
 CtCI / LL / 8 </br>
@@ -166,6 +169,7 @@ M / 319. Bulb Switcher </br>
 H / 839. Similar String Groups </br>
 H / 1697. Checking Existence of Edge Length Limited Paths </br>
 H / 1579. Remove Max Number of Edges to Keep Graph Fully Traversable </br>
+M / 649. Dota2 Senate </br>
 
 
 
