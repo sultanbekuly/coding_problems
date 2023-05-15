@@ -170,6 +170,9 @@ M / 1035. Uncrossed Lines </br>
 11.05.23 </br>
 M / 2140. Solving Questions With Brainpower </br>
 
+12.05.23 </br>
+M / 2466. Count Ways To Build Good Strings </br>
+
 Group A:</br>
 836. Rectangle Overlap </br>
 CtCI / LL / 8 </br>
@@ -197,7 +200,7 @@ H / 1964. Find the Longest Valid Obstacle Course at Each Position </br>
 M / 59. Spiral Matrix II </br>
 M / 1035. Uncrossed Lines </br>
 M / 2140. Solving Questions With Brainpower </br>
-
+M / 2466. Count Ways To Build Good Strings </br>
 
 Group B:</br>
 M / 0057. Insert Interval </br>
