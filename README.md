@@ -179,6 +179,21 @@ H / 1799. Maximize Score After N Operations </br>
 14.05.23 </br>
 M / 1721. Swapping Nodes in a Linked List </br>
 
+15.05.23 </br>
+ </br>
+
+16.05.23 </br>
+ </br>
+
+17.05.23 </br>
+ </br>
+
+18.05.23 </br>
+1557. Minimum Number of Vertices to Reach All Nodes </br>
+
+
+
+
 Group A:</br>
 836. Rectangle Overlap </br>
 CtCI / LL / 8 </br>
@@ -207,8 +222,8 @@ M / 59. Spiral Matrix II </br>
 M / 1035. Uncrossed Lines </br>
 M / 2140. Solving Questions With Brainpower </br>
 M / 2466. Count Ways To Build Good Strings </br>
-H / 1799. Maximize Score After N Operations
-
+H / 1799. Maximize Score After N Operations </br>
+M / 1557. Minimum Number of Vertices to Reach All Nodes </br>
 
 Group B:</br>
 M / 0057. Insert Interval </br>
