@@ -186,7 +186,7 @@ M / 1721. Swapping Nodes in a Linked List </br>
  </br>
 
 17.05.23 </br>
- </br>
+2130. Maximum Twin Sum of a Linked List </br>
 
 18.05.23 </br>
 1557. Minimum Number of Vertices to Reach All Nodes </br>
@@ -233,5 +233,5 @@ CtCI / 03 / 1 </br>
 1372. Longest ZigZag Path in a Binary Tree </br>
 CtCI / 03 / 2 </br> 	
 CtCI / 03 / 4_Queue_via_Stacks  </br>
-
+M / 2130. Maximum Twin Sum of a Linked List </br>
 
