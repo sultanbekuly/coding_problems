@@ -162,25 +162,25 @@ CtCI / 03 / 4_Queue_via_Stacks  </br>
 1572. Matrix Diagonal Sum </br>
 
 09.05.23 </br>
-59. Spiral Matrix II </br>
+54. Spiral Matrix </br>
 
 10.05.23 </br>
-M / 1035. Uncrossed Lines </br>
+59. Spiral Matrix II </br>
 
 11.05.23 </br>
-M / 2140. Solving Questions With Brainpower </br>
+M / 1035. Uncrossed Lines </br>
 
 12.05.23 </br>
-M / 2466. Count Ways To Build Good Strings </br>
+M / 2140. Solving Questions With Brainpower </br>
 
 13.05.23 </br>
-H / 1799. Maximize Score After N Operations </br>
+M / 2466. Count Ways To Build Good Strings </br>
 
 14.05.23 </br>
-M / 1721. Swapping Nodes in a Linked List </br>
+H / 1799. Maximize Score After N Operations </br>
 
 15.05.23 </br>
- </br>
+M / 1721. Swapping Nodes in a Linked List </br>
 
 16.05.23 </br>
 24. Swap Nodes in Pairs </br>
