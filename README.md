@@ -191,6 +191,11 @@ M / 1721. Swapping Nodes in a Linked List </br>
 18.05.23 </br>
 1557. Minimum Number of Vertices to Reach All Nodes </br>
 
+19.05.23 </br>
+785. Is Graph Bipartite? </br>
+
+
+
 
 
 
@@ -225,6 +230,7 @@ M / 2466. Count Ways To Build Good Strings </br>
 H / 1799. Maximize Score After N Operations </br>
 M / 1557. Minimum Number of Vertices to Reach All Nodes </br>
 M / 24. Swap Nodes in Pairs </br>
+M / 785. Is Graph Bipartite? </br>
 
 
 
