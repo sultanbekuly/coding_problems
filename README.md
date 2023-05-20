@@ -194,6 +194,9 @@ M / 1721. Swapping Nodes in a Linked List </br>
 19.05.23 </br>
 785. Is Graph Bipartite? </br>
 
+20.05.23 </br>
+399. Evaluate Division </br>
+
 
 
 
@@ -231,6 +234,7 @@ H / 1799. Maximize Score After N Operations </br>
 M / 1557. Minimum Number of Vertices to Reach All Nodes </br>
 M / 24. Swap Nodes in Pairs </br>
 M / 785. Is Graph Bipartite? </br>
+M / 399. Evaluate Division </br>
 
 
 
