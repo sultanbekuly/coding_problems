@@ -1,6 +1,6 @@
 # https://leetcode.com/problems/merge-strings-alternately/description/
 
-# TODO: "".join(res) - how to array join to string
+# "".join(res) - how to array join to string
 
 class Solution:
     def mergeAlternately(self, word1: str, word2: str) -> str:
