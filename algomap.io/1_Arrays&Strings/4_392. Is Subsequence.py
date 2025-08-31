@@ -1,6 +1,6 @@
 # https://leetcode.com/problems/is-subsequence/description/
 
-# TODO: Edge case: Input - string/array - can be empty ""/[]
+# Edge case: Input - string/array - can be empty ""/[]
 
 class Solution:
 	def isSubsequence(self, s: str, t: str) -> bool:
