@@ -1,6 +1,6 @@
 # https://leetcode.com/problems/longest-common-prefix/description/
 
-# TODO: break for loop (pass, continue)
+# break for loop (pass, continue)
 
 class Solution:
 	def longestCommonPrefix(self, strs: list[str]) -> str:

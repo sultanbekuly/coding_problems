@@ -1,7 +1,7 @@
 # https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 
-# TODO: Names of time complexities
-# TODO: float('inf'), '-inf'
+# Names of time complexities
+# float('inf'), '-inf'
 
 
 class Solution:
